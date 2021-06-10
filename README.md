@@ -1,3 +1,9 @@
+<p align  "center">
+<img src=https://raw.githubusercontent.com/fabiolaan/Faquino_DataScience/main/cabe%C3%A7alho%20portf%C3%B3lio.jpg>
+</p>
+
+FABÍOLA AQUINO DO NASCIMENTO
+
 Formada em Engenharia de Pesca - UFAM e mestre em Biologia de Água Doce - INPA ministro Estatística Geral e Aplicada para turmas de Engenharia de uma Instituição de Ensino Superior - IES particular. E durante as minhas atividades utilizando a estatística (ensino e atividades administrativas) percebi a importancia e urgencia em aprender uma linguagem de programação para a realização de análise de dados, e desde então, tenho me dedicado na aprendizagem de Python com o objetivo de aplicar Estatística Descritiva, Estatística Inferencial e Machine Learning. E
 
 Como estou no processo de aprendizagem, esse Portfólio apresenta:
