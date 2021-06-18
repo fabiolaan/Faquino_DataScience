@@ -14,7 +14,7 @@ Background in: Python | SQL | Machine Learning.
 
 Links:
 
-    ##Linkedin##: https://www.linkedin.com/in/fab%C3%ADola-nascimento-datascience/
+    *Linkedin*: https://www.linkedin.com/in/fab%C3%ADola-nascimento-datascience/
     ##Medium##: https://2020amofa.medium.com/
   
 
