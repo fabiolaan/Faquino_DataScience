@@ -12,17 +12,17 @@ Como estou no processo de aprendizagem, esse Portfólio apresenta:
 
 Background in: Python | SQL | Machine Learning.
 
-Links:
+## Links:
 
-    *Linkedin*: https://www.linkedin.com/in/fab%C3%ADola-nascimento-datascience/
-    ##Medium##: https://2020amofa.medium.com/
+   Linkedin: https://www.linkedin.com/in/fab%C3%ADola-nascimento-datascience/
+   Medium##: https://2020amofa.medium.com/
   
 
-##PROJETOS DE ESTUDO##:
+## PROJETOS DE ESTUDO:
 GRÁFICOS
 - Gráfico de corrida: https://github.com/fabiolaan/Faquino_DataScience/commits?author=fabiolaan
    
-##PROJETO DE CIÊNCIA DE DADOS##:
+## PROJETO DE CIÊNCIA DE DADOS:
 
 
 
