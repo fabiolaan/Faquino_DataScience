@@ -4,7 +4,7 @@
 
 **FABÍOLA AQUINO DO NASCIMENTO**
 
-Formada em Engenharia de Pesca - UFAM e mestre em Biologia de Água Doce - INPA ministro Estatística Geral e Aplicada para turmas de Engenharia de uma Instituição de Ensino Superior - IES particular. E durante as minhas atividades utilizando a estatística (ensino e atividades administrativas) percebi a importancia e urgencia em aprender uma linguagem de programação para a realização de análise de dados, e desde então, tenho me dedicado na aprendizagem de Python com o objetivo de aplicar Estatística Descritiva, Estatística Inferencial e Machine Learning. E
+Formada em Engenharia de Pesca - UFAM e mestre em Biologia de Água Doce - INPA ministro Estatística Geral e Aplicada para turmas de Engenharia de uma Instituição de Ensino Superior - IES particular. E durante as minhas atividades utilizando a estatística (ensino e atividades administrativas) percebi a importancia e urgencia em aprender uma linguagem de programação para a realização de análise de dados, e desde então, tenho me dedicado na aprendizagem de Python com o objetivo de aplicar Estatística Descritiva, Estatística Inferencial e Machine Learning. 
 
 Como estou no processo de aprendizagem, esse Portfólio apresenta:
 - **PROJETOS DE ESTUDO**: o objetivo desses projetos é praticar a construção de gráficos e análises estatísticas sem nenhuma pretenção de responder nenhuma pergunta de negócio.
