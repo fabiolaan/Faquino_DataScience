@@ -19,7 +19,7 @@ Background in: Python | SQL | Machine Learning.
   
 
 ## PROJETOS DE ESTUDO:
-GRÁFICOS
+**GRÁFICOS**
 - Gráfico de corrida: https://github.com/fabiolaan/Faquino_DataScience/commits?author=fabiolaan
    
 ## PROJETO DE CIÊNCIA DE DADOS:
