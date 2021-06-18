@@ -14,12 +14,12 @@ Background in: Python | SQL | Machine Learning.
 
 ## Links:
 
-  * Linkedin: https://www.linkedin.com/in/fab%C3%ADola-nascimento-datascience/
-  * Medium##: https://2020amofa.medium.com/
+  - Linkedin: https://www.linkedin.com/in/fab%C3%ADola-nascimento-datascience/
+  - Medium##: https://2020amofa.medium.com/
   
 
 ## PROJETOS DE ESTUDO:
-* GRÁFICOS
+GRÁFICOS
 - Gráfico de corrida: https://github.com/fabiolaan/Faquino_DataScience/commits?author=fabiolaan
    
 ## PROJETO DE CIÊNCIA DE DADOS:
