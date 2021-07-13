@@ -20,7 +20,7 @@ Background in: Python | SQL | Machine Learning.
 
 ## PROJETOS DE ESTUDO:
 **GRÁFICOS**
-- Gráfico de Corrida: https://github.com/fabiolaan/Faquino_DataScience/commits?author=fabiolaan
+- Gráfico de Corrida: GRÁFICO_DE_CORRIDA_COVID_19.ipynb
    
 ## PROJETO DE CIÊNCIA DE DADOS:
 
