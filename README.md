@@ -20,7 +20,7 @@ Background in: Python | SQL | Machine Learning.
 
 ## PROJETOS DE ESTUDO:
 **GRÁFICOS**
-- Gráfico de Corrida: GRÁFICO_DE_CORRIDA_COVID_19.ipynb
+- Gráfico de Corrida: https://colab.research.google.com/github/fabiolaan/Faquino_DataScience/blob/main/GR%C3%81FICO_DE_CORRIDA_COVID_19.ipynb
    
 ## PROJETO DE CIÊNCIA DE DADOS:
 
